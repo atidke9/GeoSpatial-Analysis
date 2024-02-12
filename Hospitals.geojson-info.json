@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2022-04-29T16:23:24Z",
+  "last_modified_by_me": "2022-04-29T16:23:24Z",
+  "content_last_modified": "2022-04-29T16:23:24Z",
+  "created": "2022-08-16T04:56:01.308Z",
+  "permissions": [
+    {
+      "id": "11281491484913576234",
+      "name": "Anuradha Tidke",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJBz4viwG92bbRHFY0shJ-pkCrl2PWtkgtLYRH_Z_MqClw=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1TJecUTkrnem5-skZ2y9H3wtb0iH1jQiH/permissions/11281491484913576234",
+      "email_address": "atidke9@gwmail.gwu.edu",
+      "domain": "gwmail.gwu.edu",
+      "etag": "\"OxS66J27joD6QsqIXfGU4uxlE9E\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Hospitals.geojson",
+  "drive_id": "1TJecUTkrnem5-skZ2y9H3wtb0iH1jQiH",
+  "mime_type": "application/octet-stream"
+}
